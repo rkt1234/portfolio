@@ -61,7 +61,7 @@ export default function App() {
       <Projects />
       <Contact />
       <footer>
-        <span>© 2025 Ravikant Tiwari</span>
+        <span>© 2026 Ravikant Tiwari</span>
         <span>Built with purpose.</span>
       </footer>
     </>
